@@ -15,7 +15,7 @@ This algorithm is based on a polyalphabetic substitution matrix of size 26x26. E
 
 <br>
 
-🔎 You can click [here]() to check out the code for this method. You can adjust the message to fit your needs. 
+🔎 You can click [here](https://github.com/dmamakas2000/cryptanalysis-python/tree/master/encryption) to check out the code for this method. You can adjust the message to fit your needs. 
 
 <br>
 
@@ -32,7 +32,7 @@ In conclusion, Kasiski's Analysis is a highly significant development in the fie
 
 <br>
 
-🔎 You can click [here]() to check out the code for this method. Please, use the cipher you produced when experimenting with Vigenère Algorithm.
+🔎 You can click [here](https://github.com/dmamakas2000/cryptanalysis-python/tree/master/decryption) to check out the code for this method. Please, use the cipher you produced when experimenting with Vigenère Algorithm.
 
 <br>
 
@@ -43,6 +43,6 @@ In our case, the Index of Coincidence statistical test can be used to analyze ci
 
 <br>
 
-🔎 You can click [here]() to check out the code for this method. Please, use the cipher you produced when experimenting with Vigenère Algorithm.
+🔎 You can click [here](https://github.com/dmamakas2000/cryptanalysis-python/tree/master/decryption) to check out the code for this method. Please, use the cipher you produced when experimenting with Vigenère Algorithm.
 
 <br>
