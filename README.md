@@ -46,3 +46,6 @@ In our case, the Index of Coincidence statistical test can be used to analyze ci
 🔎 You can click [here](https://github.com/dmamakas2000/cryptanalysis-python/tree/master/decryption) to check out the code for this method. Please, use the cipher you produced when experimenting with Vigenère Algorithm.
 
 <br>
+
+## License
+This project is licensed under the **MIT License** - see the **[LICENSE](LICENSE)** file for details.
